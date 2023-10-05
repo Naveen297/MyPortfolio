@@ -19,9 +19,9 @@ function Projects() {
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently. Please appriciate
-          them
+          them wvwvwvwr
         </p>
-        <h1>jsR</h1>
+
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
