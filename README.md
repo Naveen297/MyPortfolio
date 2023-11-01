@@ -1,21 +1,7 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://naveenmalhotra.co/" target="_blank">naveenmalhotra.co</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
-<br/>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/Naveen297/MyPortfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/Naveen297/MyPortfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Naveen297](https://github.com/Naveen297/MyPortfolio). Thanks!
 
